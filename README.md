@@ -25,14 +25,19 @@ Source Code of the project
 
 https://github.com/yigitcicek/sample-app-spring-boot-hello/tree/feature/docker-compose-ci-cd
 
+###### ! Pay attention to branches, different branches have different functionalities
+
 Diagram of the project
 ![diagram1](ec2-docker-diagram.png)
 
 ## Ci/Cd Project 2 <a name="cicd-project-2"></a>
-#### Create New Ec2 with Terraform Install Docker in it and Deploy the project there
+#### Create New Ec2 with Terraform Install Docker in it and Deploy the project there using Jenkins
 
 Source Code of the project
+
 https://github.com/yigitcicek/sample-app-spring-boot-hello/tree/feature/terraform-ec2-docker-compose
+
+###### ! Pay attention to branches, different branches have different functionalities
 
 Diagram of the project
 ![diagram2](terraform-ec2-docker.png)
@@ -43,6 +48,7 @@ Diagram of the project
 Source Code of the project
 
 https://github.com/yigitcicek/terraform-sample-ec2-docker/tree/feature/modular-version
+
 
 ## IaC Project 2 <a name="iac-project-2"></a>
 #### Create a 2 Worker Node EKS Cluster with Terraform
@@ -61,7 +67,7 @@ Source Code of the project
 https://github.com/yigitcicek/terraform-sample-eks/tree/feature/automate-eks-provision
 
 ## Guide 1 <a name="guide-1"></a>
-#### Install Jenkins with Docker inside using host docker socket
+#### Install Jenkins with Docker inside using host Docker socket
 
 Source Code of the project
 
