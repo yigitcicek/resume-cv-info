@@ -6,6 +6,8 @@ This page will direct you to different projects in my Github profile. If you get
 
 It is a work in progress, so you may see some things added/refined in the future.
 
+---
+
 ### Table of Contents 📚
 
 #### Ci/Cd Projects 🚀
