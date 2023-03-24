@@ -10,7 +10,7 @@ This page will direct you to different projects in my Github profile. If you get
 - [Ci/Cd Project 1](#cicd-project-1)
 - [Ci/Cd Project 2](#cicd-project-2)
 
-#### Infratructure as Code Projects 🛠️
+#### Infrastructure as Code Projects 🛠️
 - [IaC Project 1](#iac-project-1)
 - [IaC Project 2](#iac-project-2)
 
