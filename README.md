@@ -24,7 +24,7 @@ It is a work in progress, so you may see some things added/refined in the future
 
 ---
 
-## Ci/Cd Project 1 <a name="cicd-project-1"></a>
+## Ci/Cd Project 1 <a name="cicd-project-1"></a> 🚀
 #### Deploy to existing AWS Ec2 server from Jenkins
 
 Source Code of the project
@@ -38,7 +38,7 @@ Diagram of the project
 
 ---
 
-## Ci/Cd Project 2 <a name="cicd-project-2"></a>
+## Ci/Cd Project 2 <a name="cicd-project-2"></a> 🚀
 #### Create New Ec2 with Terraform Install Docker in it and Deploy the project there using Jenkins
 
 Source Code of the project
@@ -52,7 +52,7 @@ Diagram of the project
 
 ---
 
-## IaC Project 1 <a name="iac-project-1"></a>
+## IaC Project 1 <a name="iac-project-1"></a> 🛠️
 #### Create an Ec2 instance and install docker with Terraform
 
 Source Code of the project
@@ -61,7 +61,7 @@ https://github.com/yigitcicek/terraform-sample-ec2-docker/tree/feature/modular-v
 
 ---
 
-## IaC Project 2 <a name="iac-project-2"></a>
+## IaC Project 2 <a name="iac-project-2"></a> 🛠️
 #### Create a 2 Worker Node EKS Cluster with Terraform
 
 Source Code of the project
@@ -70,7 +70,7 @@ https://github.com/yigitcicek/terraform-sample-eks/tree/feature/automate-eks-pro
 
 ---
 
-## Guide 1 <a name="guide-1"></a>
+## Guide 1 <a name="guide-1"></a> ⚙️
 #### Install Jenkins with Docker inside using host Docker socket
 
 Source Code of the project
@@ -79,7 +79,7 @@ https://github.com/yigitcicek/free-flowing-devops/tree/main/ci-cd/jenkins/jenkin
 
 ---
 
-## Guide 2 <a name="guide-2"></a>
+## Guide 2 <a name="guide-2"></a> ⚙️
 #### Install Jenkins with Docker inside using Docker Dind image
 
 Source Code of the project
