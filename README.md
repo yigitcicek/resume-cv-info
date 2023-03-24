@@ -3,6 +3,7 @@
 First of all, thank you for taking an interest in my resume and projects.
 
 This page will direct you to different projects in my Github profile. If you get lost please return to this page :D
+
 It is a work in progress, so you may see some things added/refined in the future.
 
 ### Table of Contents 📚
