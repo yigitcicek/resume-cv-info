@@ -14,14 +14,6 @@ It is a work in progress, so you may see some things added/refined in the future
 - [Ci/Cd Project 1](#cicd-project-1)
 - [Ci/Cd Project 2](#cicd-project-2)
 
-#### Infrastructure as Code Projects 🛠️
-- [IaC Project 1](#iac-project-1)
-- [IaC Project 2](#iac-project-2)
-
-#### Guides and Notes ⚙️
-- [Guide 1](#guide-1)
-- [Guide 2](#guide-2)
-
 ---
 
 ## Ci/Cd Project 1 <a name="cicd-project-1"></a> 🚀
@@ -51,37 +43,3 @@ Diagram of the project
 ![diagram2](terraform-ec2-docker.png)
 
 ---
-
-## IaC Project 1 <a name="iac-project-1"></a> 🛠️
-#### Create an Ec2 instance and install docker with Terraform
-
-Source Code of the project
-
-https://github.com/yigitcicek/terraform-sample-ec2-docker/tree/feature/modular-version
-
----
-
-## IaC Project 2 <a name="iac-project-2"></a> 🛠️
-#### Create a 2 Worker Node EKS Cluster with Terraform
-
-Source Code of the project
-
-https://github.com/yigitcicek/terraform-sample-eks/tree/feature/automate-eks-provision
-
----
-
-## Guide 1 <a name="guide-1"></a> ⚙️
-#### Install Jenkins with Docker inside using host Docker socket
-
-Source Code of the project
-
-https://github.com/yigitcicek/free-flowing-devops/tree/main/ci-cd/jenkins/jenkins-docker-compose-socket
-
----
-
-## Guide 2 <a name="guide-2"></a> ⚙️
-#### Install Jenkins with Docker inside using Docker Dind image
-
-Source Code of the project
-
-https://github.com/yigitcicek/free-flowing-devops/tree/main/ci-cd/jenkins/jenkins-docker-compose-dind
